@@ -10,7 +10,7 @@ $(function() {
   };
 
   //E-mail Ajax Send
-  //Documentation & Example: https://github.com/agragregra/uniMail
+  //Documentation & Example: https://github.com/wdmcourses/uniMail
   $("form").submit(function() { //Change
     var th = $(this);
     $.ajax({
